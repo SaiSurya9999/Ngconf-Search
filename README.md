@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ### Demo Link   
-[Stackblitz Demo](https://stackblitz.com/edit/angular-ivy-behdte "ngconf-search Demo") 
+[Stackblitz Demo](https://stackblitz.com/edit/ngconf-search "ngconf-search Demo") 
 
 ## Step - 1
 
