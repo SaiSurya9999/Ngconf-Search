@@ -4,6 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 > ![ngconf-search](https://img.icons8.com/color/48/000000/search.png "Search Feature") Search Feature for Angular.  
 
+
+### Demo Link   
+[Stackblitz Demo](https://stackblitz.com/edit/ngconf-search "ngconf-search Demo") 
+
 ## Step - 1
 
 > npm i ngconf-search --save  
