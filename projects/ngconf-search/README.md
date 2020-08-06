@@ -2,14 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
-> ![CSV Format](https://img.icons8.com/color/48/000000/search.png "Search Feature") Search Feature for Angular.  
+> ![ngconf-search](https://img.icons8.com/color/48/000000/search.png "Search Feature") Search Feature for Angular.  
+
+
+### Demo Link   
+[Stackblitz Demo](https://stackblitz.com/edit/ngconf-search "ngconf-search Demo") 
 
 ## Step - 1
 
 > npm i ngconf-search --save  
 [NPM Package Link](https://www.npmjs.com/package/ngconf-search "ngconf-search")  
 
-import NgxCSVtoJSONModule in **app.module.ts** file.  
+import NgconfSearchModule in **app.module.ts** file.  
 **app.module.ts**
 ```javascript
 import {NgconfSearchModule} from 'ngconf-search';

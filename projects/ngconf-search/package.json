@@ -12,13 +12,14 @@
   "description": "Angular Library to provide Search Feature to Angular apps.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SaiSurya9999/ngxSearch.git"
+    "url": "https://github.com/SaiSurya9999/Ngconf-Search.git"
   },
   "bugs": {
-    "url": "https://github.com/SaiSurya9999/ngxSearch/issues",
+    "url": "https://github.com/SaiSurya9999/Ngconf-Search/issues",
     "email": "tsaisurya@gmail.com"
   },
-  "homepage": "https://github.com/SaiSurya9999/ngxSearch",
+  "homepage": "https://github.com/SaiSurya9999/Ngconf-Search",
+  "license": "MIT",
   "keywords": [
     "angular",
     "javascript",
